@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">calcular_notas_android_studio</string>
+    <string name="app_title">Calcula tu nota</string>
+    <string name="etName">Nombre estudiante</string>
+    <string name="etCourse">Nombre curso</string>
+    <string name="etGrade1">Digita nota 1</string>
+    <string name="etGrade2">Digita nota 2</string>
+    <string name="cbRepeatedCourse">¿El curso ha sido realizado más de una vez?</string>
+    <string name="btnCalculateGrade">Calcular nota</string>
 </resources>
